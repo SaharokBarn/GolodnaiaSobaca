@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722869750 source:c:\c\golodnaiadog\main.cpp
+	<iostream>
+	<windows.h>
+
