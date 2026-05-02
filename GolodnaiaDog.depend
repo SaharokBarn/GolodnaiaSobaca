@@ -3,3 +3,10 @@
 	<iostream>
 	<windows.h>
 
+1777727197 source:c:\git_pidor\golodnaiasobaca3d\main.cpp
+	<iostream>
+	<windows.h>
+	<random>
+	<ctime>
+	<cstdlib>
+
